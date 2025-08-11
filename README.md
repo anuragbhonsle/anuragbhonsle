@@ -40,12 +40,12 @@
 
 ### Featured Projects
 
-| **Project**    | **Description**                                    |                **Live Demo**                 |                     **Repository**                     |
-| -------------- | -------------------------------------------------- | :------------------------------------------: | :----------------------------------------------------: |
-| **LeetScape**  | React frontend for LeetCode users — streak tracker | [ Visit](https://leetscape-app.vercel.app/)  | [ Source](https://github.com/anuragbhonsle/leetscape)  |
-| **Starune**    | Creative web app                                   |    [ Visit](https://starune.vercel.app/)     |  [ Source](https://github.com/anuragbhonsle/starune)   |
-| **Animeverse** | Anime watchlist manager with clean UI              | [ Visit](https://anime-verse-xi.vercel.app/) | [ Source](https://github.com/anuragbhonsle/animeverse) |
-| **Eclipz**     | Modern UI patterns and project demos               |     [ Visit](https://eclipz.vercel.app/)     |   [ Source](https://github.com/anuragbhonsle/eclipz)   |
+| **Project**    | **Description**                                                                                                    |                **Live Demo**                 |                     **Repository**                     |
+| -------------- | ------------------------------------------------------------------------------------------------------------------ | :------------------------------------------: | :----------------------------------------------------: |
+| **LeetScape**  | LeetScape helps you stay organized and build strong consistency in your coding interview preparation               | [ Visit](https://leetscape-app.vercel.app/)  | [ Source](https://github.com/anuragbhonsle/leetscape)  |
+| **Starune**    | Starune helps you check if the sky is clear enough for stargazing at your location.                                |    [ Visit](https://starune.vercel.app/)     |  [ Source](https://github.com/anuragbhonsle/starune)   |
+| **Animeverse** | Effortlessly track, manage, and explore your anime world — all in one place.                                       | [ Visit](https://anime-verse-xi.vercel.app/) | [ Source](https://github.com/anuragbhonsle/animeverse) |
+| **Eclipz**     | Eclipz was built to blend anonymity with mystery. It's a space where you can say anything while staying anonymous. |     [ Visit](https://eclipz.vercel.app/)     |   [ Source](https://github.com/anuragbhonsle/eclipz)   |
 
 ---
 
