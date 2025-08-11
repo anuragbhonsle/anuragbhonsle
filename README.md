@@ -8,10 +8,10 @@
 
 ### About Me
 
-* React developer focused on clean, maintainable UIs
-* Daily LeetCode practice (232-day streak)
-* Strong interest in data structures and algorithms
-* Building backend skills with Node.js, Express and MongoDB
+* React developer focused on clean, maintainable UIs  
+* Daily LeetCode practice (232-day streak)  
+* Strong interest in data structures and algorithms  
+* Building backend skills with Node.js, Express and MongoDB  
 
 ---
 
@@ -45,15 +45,25 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragbhonsle&layout=compact&theme=dark" alt="Top languages" />
 </p>
 
-**Optional — add these if you want live cards:**
+<p align="center">
+  <!-- LeetCode stats card -->
+  <img src="https://leetcode-stats-six.vercel.app/api?username=Anuraaaag7&theme=dark" alt="LeetCode Stats" />
+</p>
 
-* LeetCode stats (replace `LEETCODE_USERNAME`):
-  `https://leetcode-stats-six.vercel.app/api?username=LEETCODE_USERNAME&theme=dark`
+<p align="center">
+  <!-- Codeforces stats card -->
+  <img src="https://cf-stats-api.vercel.app/api/user/anuragbhonsle?theme=dark" alt="Codeforces Stats" />
+</p>
 
-* Codeforces card (replace `CF_USERNAME`):
-  `https://cf-stats-api.vercel.app/api/user/CF_USERNAME?theme=dark`
+<p align="center">
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragbhonsle&theme=dark" alt="GitHub Streak" />
+</p>
 
-Tell me your LeetCode and Codeforces usernames and I will add the images here.
+<p align="center">
+  <!-- WakaTime coding stats -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=anuragbhonsle&theme=dark" alt="WakaTime Stats" />
+</p>
 
 ---
 
@@ -67,25 +77,25 @@ Tell me your LeetCode and Codeforces usernames and I will add the images here.
 
 ### What I’m working on
 
-* Improving competitive programming performance
-* Shipping production-ready React apps
-* Learning advanced backend patterns
+* Improving competitive programming performance  
+* Shipping production-ready React apps  
+* Learning advanced backend patterns  
 
 ---
 
 ### Goals
 
-* Reach consistent 1200+ on Codeforces
-* Ship one high-quality project per month in 2025
-* Be interview-ready for front-end roles
+* Reach consistent 1200+ on Codeforces  
+* Ship one high-quality project per month in 2025  
+* Be interview-ready for front-end roles  
 
 ---
 
 ### Quick setup
 
-1. Create a repository named exactly `anuragbhonsle` in your GitHub account (must match your username).
-2. Commit this file as `README.md` in that repository.
-3. Visit your GitHub profile — the README will render automatically.
+1. Create a repository named exactly `anuragbhonsle` in your GitHub account (must match your username).  
+2. Commit this file as `README.md` in that repository.  
+3. Visit your GitHub profile — the README will render automatically.  
 
 ---
 
