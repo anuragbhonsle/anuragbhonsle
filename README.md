@@ -31,8 +31,8 @@
 ### Achievements
 
 <p align="center">
-  ![LeetCode Streak](https://img.shields.io/badge/LeetCode_Streak-232_days-brightgreen?style=for-the-badge&logo=leetcode)  
-  ![Codeforces Rating](https://img.shields.io/badge/Codeforces-928-orange?style=for-the-badge&logo=codeforces)
+  ![LeetCode](https://img.shields.io/badge/LeetCode_Streak-232_days-brightgreen?style=for-the-badge&logo=leetcode)  
+  ![Codeforces](https://img.shields.io/badge/Codeforces-928-orange?style=for-the-badge&logo=codeforces)
 </p>
 
 ---
