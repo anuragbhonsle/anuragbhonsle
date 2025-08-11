@@ -47,17 +47,17 @@
 
 <p align="center">
   <!-- LeetCode stats card -->
-  <img src="https://leetcode-stats-six.vercel.app/api?username=Anuraaaag7&theme=dark" alt="LeetCode Stats" />
+  <img src="https://leetcode-stats-six.vercel.app/api?username=AnuragBhonsle&theme=dark" alt="LeetCode Stats" />
 </p>
 
 <p align="center">
   <!-- Codeforces stats card -->
-  <img src="https://cf-stats-api.vercel.app/api/user/anuragbhonsle?theme=dark" alt="Codeforces Stats" />
+  <img src="https://cf-stats-api.vercel.app/api/user/Anurag2510?theme=dark" alt="Codeforces Stats" />
 </p>
 
 <p align="center">
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragbhonsle&theme=dark" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=anuragbhonsle&theme=dark" alt="GitHub Streak" />
 </p>
 
 <p align="center">
