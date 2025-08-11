@@ -1,16 +1,5 @@
-<!-- HEADER: Animated typing effect -->
-<h1 align="center">
-  Hey, I’m <a href="https://github.com/your_github_username" target="_blank">Anurag</a>! 👋
-</h1>
-<p align="center">
-  <em>
-    <strong>
-      <span id="typed-text"></span>
-    </strong>
-  </em>
-</p>
+# Hey, I’m Anurag! 👋
 
-<!-- PROFILE STATS -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
 </p>
@@ -53,62 +42,18 @@
 ### 📫 Connect with me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your_linkedin" target="_blank">
+  <a href="[https://linkedin.com/in/your_linkedin](https://www.linkedin.com/in/anurag-bhonsle-4b576524a/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/your_twitter" target="_blank">
+  <a href="[https://twitter.com/your_twitter](https://x.com/Anuraaaag7)" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="mailto:your_email" target="_blank">
+  <a href="mailto:anuragkbhonsle@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🎯 Quote of the Day
 
-<p align="center" id="quote"></p>
-
-<script>
-// Animated typing effect
-const texts = [
-  "React dev & DSA master in the making.",
-  "232 days LeetCode grind strong.",
-  "Coding my way to the top.",
-  "Consistency is the real flex.",
-  "Keep calm and code on."
-];
-
-let count = 0;
-let index = 0;
-let currentText = '';
-let letter = '';
-
-(function type() {
-  if (count === texts.length) count = 0;
-  currentText = texts[count];
-  letter = currentText.slice(0, ++index);
-
-  document.getElementById('typed-text').innerHTML = letter;
-  if (letter.length === currentText.length) {
-    count++;
-    index = 0;
-    setTimeout(type, 1500);
-  } else {
-    setTimeout(type, 100);
-  }
-})();
-
-// Random quote generator
-const quotes = [
-  "Consistency beats talent when talent doesn’t work hard.",
-  "Code hard, dream big.",
-  "Every line of code is a step closer to greatness.",
-  "Debugging is like being a detective in a crime movie.",
-  "Keep pushing, keep improving."
-];
-
-document.getElementById('quote').innerText = quotes[Math.floor(Math.random() * quotes.length)];
-</script>
 
