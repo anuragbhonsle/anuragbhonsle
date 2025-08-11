@@ -55,16 +55,25 @@
 </p>
 
 <p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=AnuragBhonsle&theme=dark" />
+  <img src="https://leetcard.jacoblin.cool/AnuragBhonsle?theme=dark" alt="LeetCode Stats" />
 </p>
 
 <p align="center">
-  <img src="https://cf-stats-api.vercel.app/api/user/Anurag2510?theme=dark" />
+  <img src="https://cf.rainy.tools/api/user/Anurag2510/profile" alt="Codeforces Stats" />
 </p>
 
 ---
 
 ### Connect with me
+
+<p align="center">
+  [LinkedIn](https://www.linkedin.com/in/anurag-bhonsle-4b576524a/) • [X](https://x.com/Anuraaaag7) • [Email](mailto:anuragkbhonsle@gmail.com)
+</p>
+
+---
+
+> Consistency beats talent when talent doesn’t work hard. — Anurag
+
 
 <p align="center">
   [LinkedIn](https://www.linkedin.com/in/anurag-bhonsle-4b576524a/) • [X](https://x.com/Anuraaaag7) • [Email](mailto:anuragkbhonsle@gmail.com)
