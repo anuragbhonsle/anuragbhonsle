@@ -1,57 +1,56 @@
 # Hey, I’m Anurag 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" alt="Typing animation" width="350"/>
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Typing animation" width="350"/>
 </p>
 
 ---
 
 ### About Me
 
-* React dev focused on clean, maintainable UIs  
-* Daily LeetCode practice (232-day streak)  
-* Strong interest in DSA & algorithms  
-* Building backend skills: Node.js, Express, MongoDB  
+- **React developer** focused on clean, maintainable UIs
+- Daily **LeetCode** practice — _232-day streak_
+- Strong interest in **data structures & algorithms**
+- Building backend skills with **Node.js, Express, and MongoDB**
 
 ---
 
 ### Core Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" />
 </p>
 
 ---
-
-### Achievements
-
-<p align="center">
-  ![LeetCode](https://img.shields.io/badge/LeetCode_Streak-232_days-brightgreen?style=for-the-badge&logo=leetcode)  
-  ![Codeforces](https://img.shields.io/badge/Codeforces-928-orange?style=for-the-badge&logo=codeforces)
-</p>
 
 ---
 
 ### Featured Projects
 
-| Project        | Description                                         | Live Link                             | Repo Link                                         |
-|----------------|-----------------------------------------------------|-------------------------------------|--------------------------------------------------|
-| **LeetScape**  | React frontend for LeetCode users — streak tracker  | [leetscape-app.vercel.app](https://leetscape-app.vercel.app/) | [GitHub](https://github.com/anuragbhonsle/leetscape)  |
-| **Starune**    | Creative web app                                    | [starune.vercel.app](https://starune.vercel.app/)           | [GitHub](https://github.com/anuragbhonsle/starune)     |
-| **Animeverse** | Anime watchlist manager with clean UI               | [anime-verse-xi.vercel.app](https://anime-verse-xi.vercel.app/) | [GitHub](https://github.com/anuragbhonsle/animeverse)  |
-| **Eclipz**     | Modern UI patterns and project demos                 | [eclipz.vercel.app](https://eclipz.vercel.app/)             | [GitHub](https://github.com/anuragbhonsle/eclipz)      |
+| **Project**    | **Description**                                    |                **Live Demo**                 |                     **Repository**                     |
+| -------------- | -------------------------------------------------- | :------------------------------------------: | :----------------------------------------------------: |
+| **LeetScape**  | React frontend for LeetCode users — streak tracker | [ Visit](https://leetscape-app.vercel.app/)  | [ Source](https://github.com/anuragbhonsle/leetscape)  |
+| **Starune**    | Creative web app                                   |    [ Visit](https://starune.vercel.app/)     |  [ Source](https://github.com/anuragbhonsle/starune)   |
+| **Animeverse** | Anime watchlist manager with clean UI              | [ Visit](https://anime-verse-xi.vercel.app/) | [ Source](https://github.com/anuragbhonsle/animeverse) |
+| **Eclipz**     | Modern UI patterns and project demos               |     [ Visit](https://eclipz.vercel.app/)     |   [ Source](https://github.com/anuragbhonsle/eclipz)   |
 
 ---
 
 ### GitHub & Coding Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuragbhonsle&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuragbhonsle&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
 ---
@@ -59,20 +58,20 @@
 ### Connect with me
 
 <p align="center">
-  [LinkedIn](https://www.linkedin.com/in/anurag-bhonsle-4b576524a/) • [X](https://x.com/Anuraaaag7) • [Email](mailto:anuragkbhonsle@gmail.com)
+  <a href="https://www.linkedin.com/in/anurag-bhonsle-4b576524a/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/Anuraaaag7" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter)" />
+  </a>
+  <a href="mailto:anuragkbhonsle@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
 
 > Consistency beats talent when talent doesn’t work hard. — Anurag
 
-
-<p align="center">
-  [LinkedIn](https://www.linkedin.com/in/anurag-bhonsle-4b576524a/) • [X](https://x.com/Anuraaaag7) • [Email](mailto:anuragkbhonsle@gmail.com)
-</p>
-
----
-
-> Consistency beats talent when talent doesn’t work hard. — Anurag
 
 
