@@ -54,14 +54,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=anuragbhonsle&show_icons=true&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/AnuragBhonsle?theme=dark" alt="LeetCode Stats" />
-</p>
-
-<p align="center">
-  <img src="https://cf.rainy.tools/api/user/Anurag2510/profile" alt="Codeforces Stats" />
-</p>
-
 ---
 
 ### Connect with me
