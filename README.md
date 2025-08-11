@@ -33,7 +33,7 @@
 
 | Project                                | Description                                  | Link                                      |
 |--------------------------------------|----------------------------------------------|-------------------------------------------|
-| [LeetScape](https://github.com/your_github_username/LeetScape)   | React frontend for LeetCode users             | [Repo](https://github.com/your_github_username/LeetScape) |
+| [LeetScape]([[https://github.com/your_github_username/LeetScape](https://github.com/anuragbhonsle/leetscape)](https://leetscape-app.vercel.app/))   | React frontend for LeetCode users             | [Repo]([https://github.com/your_github_username/LeetScape](https://github.com/anuragbhonsle/leetscape)) |
 | [Animeverse](https://github.com/your_github_username/Animeverse) | Manage & track anime watchlists               | [Repo](https://github.com/your_github_username/Animeverse) |
 | [Eclipz](https://github.com/your_github_username/Eclipz)         | Unique React project with modern UI           | [Repo](https://github.com/your_github_username/Eclipz)     |
 
