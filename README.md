@@ -1,7 +1,7 @@
 # Hey, I’m Anurag! 👋
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuragbhonsle&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
 </p>
 
 ---
