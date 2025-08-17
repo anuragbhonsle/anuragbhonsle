@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/61/86/e6/6186e64cac32f93dffd835555a946213.gif" alt="Typing animation" width="700"/>
+  <img src="" alt="Typing animation" width="700"/>
 </p>
 
 ---
@@ -10,9 +10,9 @@
 ### About Me
 
 - **React developer** focused on clean, maintainable UIs
+- Building backend skills with **Node.js, Express, Firebase and MongoDB**
 - Daily **LeetCode** practice — _232-day streak_
 - Strong interest in **data structures & algorithms**
-- Building backend skills with **Node.js, Express, and MongoDB**
 
 ---
 
