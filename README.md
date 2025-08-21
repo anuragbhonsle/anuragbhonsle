@@ -45,7 +45,7 @@
 
 | **Project**    | **Description**                                                                                                    |                **Live Demo**                 |                     **Repository**                     |
 | -------------- | ------------------------------------------------------------------------------------------------------------------ | :------------------------------------------: | :----------------------------------------------------: |
-| **LeetScape**  | LeetScape helps you stay organized and build strong consistency in your coding interview preparation               | [ Visit](https://leetscape-app.vercel.app/)  | [ Source](https://github.com/anuragbhonsle/leetscape)  |
+| **LeetScape**  | LeetScape helps you stay organized and build strong consistency in your coding interview preparation               | [ Visit](https://leetscape.vercel.app)  | [ Source](https://github.com/anuragbhonsle/leetscape)  |
 | **Starune**    | Starune helps you check if the sky is clear enough for stargazing at your location.                                |    [ Visit](https://starune.vercel.app/)     |  [ Source](https://github.com/anuragbhonsle/starune)   |
 | **Animeverse** | Effortlessly track, manage, and explore your anime world — all in one place.                                       | [ Visit](https://anime-verse-xi.vercel.app/) | [ Source](https://github.com/anuragbhonsle/animeverse) |
 | **Eclipz**     | Eclipz was built to blend anonymity with mystery. It's a space where you can say anything while staying anonymous. |     [ Visit](https://eclipz.vercel.app/)     |   [ Source](https://github.com/anuragbhonsle/eclipz)   |
