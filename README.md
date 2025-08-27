@@ -11,7 +11,6 @@
 
 - **React developer** focused on clean, maintainable UIs
 - Building backend skills with **Node.js, Express, Firebase and MongoDB**
-- Daily **LeetCode** practice — _247-day streak_
 - Strong interest in **data structures & algorithms**
 
 ---
