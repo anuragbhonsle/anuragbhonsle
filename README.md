@@ -12,6 +12,7 @@
 - **React developer** focused on clean, maintainable UIs
 - Building backend skills with **Node.js, Express, Firebase and MongoDB**
 - Strong interest in **data structures & algorithms**
+- **Pupil** on Codeforces
 
 ---
 
