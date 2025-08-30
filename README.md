@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/b1/5b/d5/b15bd596014d9d9310e59b07b85da550.gif" alt="Typing animation" width="700"/>
+  <img src="https://i.pinimg.com/originals/b1/5b/d5/b15bd596014d9d9310e59b07b85da550.gif" alt="Typing" width="700"/>
 </p>
 
 ---
