@@ -1,8 +1,8 @@
-<h1>Hey, I’m Anurag 👋</h1>
+<h1 align="center" >Hey, I’m Anurag 👋</h1>
 
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/b1/5b/d5/b15bd596014d9d9310e59b07b85da550.gif" alt="Typing" width="500"/>
+  <img src="https://i.pinimg.com/originals/b1/5b/d5/b15bd596014d9d9310e59b07b85da550.gif" alt="Typing" width="550"/>
 </p>
 
 ---
