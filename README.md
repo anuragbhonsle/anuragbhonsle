@@ -1,4 +1,4 @@
-<h2 align="center" >Hey, I’m Anurag 👋</h2>
+<h1 align="center" >Hey, I’m Anurag 👋</h1>
 
 ---
 
@@ -35,15 +35,12 @@
 
 ---
 
----
-
 ### Featured Projects
 - [**LeetScape**](https://leetscape.vercel.app) – Coding interview prep tracker  
 - [**Starune**](https://starune.vercel.app) – Stargazing weather app  
 - [**Animeverse**](https://anime-verse-xi.vercel.app) – Anime tracking platform  
 - [**Eclipz**](https://eclipz.vercel.app) – Anonymous chat space  
 
----
 ---
 
 ### Connect with me
