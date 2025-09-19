@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=500&color=5A60E8&width=480&lines=Hello%2C+I'm+Anurag;React+Dev+;Competitive+Programmer+" />
 </a>
 
-<div>
-  <img src="./assets/aboutme.gif" alt="Skills Terminal GIF"/>
-</div>
-
 ---
 
 ###  Main Skills
