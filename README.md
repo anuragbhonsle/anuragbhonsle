@@ -21,11 +21,11 @@
 - [**LeetScape**](https://leetscape.vercel.app) – Coding interview prep tracker
 - [**Starune**](https://starune.vercel.app) – Stargazing weather app 
 - [**AnimeVerse**](https://anime-verse-xi.vercel.app) – Anime watchlist tracking platform 
-- [**Eclipz**](https://eclipz.vercel.app) – Anonymous chat space 
-
+- [**Eclipz**](https://eclipz.vercel.app) – Anonymous chat space https://invest-matee.vercel.app/
 ### Featured Mini Projects
 
 - [**Iconica**](https://iconicaa.vercel.app) – Icon search and inspiration tool
+- [**InvestMate**](https://invest-matee.vercel.app) – Investment Calculator App
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5A60E8&height=120&section=footer" />
 
