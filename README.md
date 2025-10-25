@@ -21,7 +21,7 @@
 - [**LeetScape**](https://leetscape.vercel.app) – Coding interview prep tracker
 - [**Starune**](https://starune.vercel.app) – Stargazing weather app 
 - [**AnimeVerse**](https://anime-verse-xi.vercel.app) – Anime watchlist tracking platform 
-- [**Eclipz**](https://eclipz.vercel.app) – Anonymous chat space https://invest-matee.vercel.app/
+- [**Eclipz**](https://eclipz.vercel.app) – Anonymous chat space 
 ### Featured Mini Projects
 
 - [**Iconica**](https://iconicaa.vercel.app) – Icon search and inspiration tool
