@@ -24,7 +24,7 @@
 - [**Eclipz**](https://eclipz.vercel.app) – Anonymous chat space
  
 ### Featured Mini Projects
-
+- [**Zareen**]((https://zareeeen.vercel.app/)) – An animated birthday card I made for a friend
 - [**Iconica**](https://iconicaa.vercel.app) – Icon search and inspiration tool
 - [**InvestMate**](https://invest-matee.vercel.app) – Investment Calculator App
 
