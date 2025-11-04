@@ -26,7 +26,7 @@
 ### Featured Mini Projects
 - [**Zareen**](https://zareeeen.vercel.app/) – An animated birthday card I made for a friend
 - [**Iconica**](https://iconicaa.vercel.app) – Icon search and inspiration tool
-- [**InvestMate**](https://invest-matee.vercel.app) – Investment Calculator App 
+- [**InvestMate**](https://invest-matee.vercel.app) – Investment Calculator App
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5A60E8&height=120&section=footer" />
 
