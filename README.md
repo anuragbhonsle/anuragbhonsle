@@ -21,7 +21,7 @@
 - [**LeetScape**](https://leetscape.vercel.app) – Coding interview prep tracker
 - [**Starune**](https://starune.vercel.app) – Stargazing weather app 
 - [**AnimeVerse**](https://anime-verse-xi.vercel.app) – Anime watchlist tracking platform 
-- [**Eclipz**](https://eclipz.vercel.app) – Anonymous chat space
+- [**Eclipz**](https://eclipz.vercel.app) – Anonymous chat space 
  
 ### Featured Mini Projects
 - [**Zareen**](https://zareeeen.vercel.app/) – An animated birthday card I made for a friend
