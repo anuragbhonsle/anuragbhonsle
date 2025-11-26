@@ -12,7 +12,7 @@
 ---
 
 ###  Studying
-[![Learning](https://skillicons.dev/icons?i=nextjs,docker,aws,linux,graphql,redis)](https://skillicons.dev) 
+[![Learning](https://skillicons.dev/icons?i=nextjs,docker,aws,linux,graphql)](https://skillicons.dev) 
 
 ---
 
