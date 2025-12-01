@@ -1,7 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=232FDE&height=120&section=header" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5257D9&height=120&section=header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=500&color=232FDE&width=480&lines=Hello%2C+I'm+Anurag;React+Dev+;Competitive+Programmer+" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=500&color=5257D9&width=480&lines=Hello%2C+I'm+Anurag;React+Dev+;Competitive+Programmer+" />
 </a>
 
 ---
@@ -28,7 +28,7 @@
 - [**Iconica**](https://iconicaa.vercel.app) – Icon search and inspiration tool
 - [**InvestMate**](https://invest-matee.vercel.app) – Investment Calculator App 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=232FDE&height=120&section=footer" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5257D9&height=120&section=footer" />
 
 
 
