@@ -22,14 +22,15 @@
 - [**LeetScape**](https://leetscape.vercel.app) – Coding interview prep tracker
 - [**Starune**](https://starune.vercel.app) – Stargazing weather app 
 - [**AnimeVerse**](https://anime-verse-xi.vercel.app) – Anime watchlist tracking platform 
-- [**Eclipz**](https://eclipz.vercel.app) – Anonymous chat space
-
+- [**Eclipz**](https://eclipz.vercel.app) – Anonymous chat space 
  
 ### Featured Mini Projects
 - [**Zareen**](https://zareeeen.vercel.app/) – An animated birthday card I made for a friend
 -  [**React Quiz**](https://reactjsquizapp.vercel.app/) – A React Quiz App
 - [**Iconica**](https://iconicaa.vercel.app) – Icon search and inspiration tool
-- [**Countdown Game**](https://countdown-gamee.vercel.app) – Interactive React time-guessing game 
+- [**Countdown Game**](https://countdown-gamee.vercel.app) – Interactive React time-guessing game
+- [**Investment Calculator**](https://invest-matee.vercel.app/) – Visualize money growth over time with compound interest.
+  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5257D9&height=120&section=footer" />
 
 
