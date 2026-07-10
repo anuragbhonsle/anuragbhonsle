@@ -7,7 +7,7 @@
 ---
 
 ###  Main Skills
-[![My Skills](https://skillicons.dev/icons?i=react,ts,nodejs,express,mongodb,postgres,git,github,html,css,tailwind,vite,firebase,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,nodejs,express,mongodb,postgres,git,github,html,css,tailwind,vite,firebase,cpp,prisma)](https://skillicons.dev)
 
 ---
 
