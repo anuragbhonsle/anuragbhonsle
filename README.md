@@ -7,12 +7,13 @@
 ---
 
 ###  Main Skills
-[![My Skills](https://skillicons.dev/icons?i=react,ts,nodejs,express,mongodb,postgres,git,github,html,css,tailwind,vite,firebase,cpp,prisma)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,nestjs,postgres,mongodb,prisma,tailwind,vite,html,css,git,github,cpp)](https://skillicons.dev)
 
 ---
 
 ###  Studying
-[![Learning](https://skillicons.dev/icons?i=nextjs,docker,aws,linux,graphql)](https://skillicons.dev) 
+[![Learning](https://skillicons.dev/icons?i=docker,aws,linux,graphql,redis)](https://skillicons.dev)
 
 ---
 
