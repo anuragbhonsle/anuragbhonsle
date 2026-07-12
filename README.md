@@ -18,7 +18,7 @@
 
 ### Featured Projects 
 
-- [**WeatherVerse**](https://your-weather-domain.vercel.app) – Real-time weather platform with live forecasts
+- [**WeatherVerse**](https://weather-verse-app.vercel.app/) – Real-time weather platform with live forecasts
 - [**Taskly**](https://taskly-chi-one.vercel.app/) – A vibe Project Manager
 - [**Starune**](https://starune.vercel.app) – Stargazing forecast app 
 - [**AnimeVerse**](https://anime-verse-xi.vercel.app) – Anime watchlist tracking platform 
