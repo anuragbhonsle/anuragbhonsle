@@ -18,15 +18,15 @@
 
 ### Featured Projects 
 
+- [**WeatherVerse**](https://your-weather-domain.vercel.app) – Real-time weather platform with live forecasts
 - [**Taskly**](https://taskly-chi-one.vercel.app/) – A vibe Project Manager
-- [**Starune**](https://starune.vercel.app) – Stargazing weather app 
+- [**Starune**](https://starune.vercel.app) – Stargazing forecast app 
 - [**AnimeVerse**](https://anime-verse-xi.vercel.app) – Anime watchlist tracking platform 
 - [**Eclipz**](https://eclipz.vercel.app) – Anonymous chat space 
  
 ### Featured Mini Projects
 - [**Zareen**](https://zareeeen.vercel.app/) – An animated birthday card I made for a friend
 -  [**React Quiz**](https://reactjsquizapp.vercel.app/) – A React Quiz App
-- [**Iconica**](https://iconicaa.vercel.app) – Icon search and inspiration tool
 - [**Countdown Game**](https://countdown-gamee.vercel.app) – Interactive React time-guessing game
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5257D9&height=120&section=footer" />
