@@ -19,6 +19,7 @@
 
 ### Featured Projects 
 
+- [**Webcomic AI**](https://comicsai.vercel.app/) – An AI-powered webcomic recommendation app
 - [**WeatherVerse**](https://weather-verse-app.vercel.app/) – Real-time weather platform with live forecasts
 - [**Taskly**](https://taskly-chi-one.vercel.app/) – A vibe Project Manager
 - [**Starune**](https://starune.vercel.app) – Stargazing forecast app 
