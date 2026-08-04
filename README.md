@@ -86,6 +86,18 @@ Descriptions:
   <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=20&duration=3000&pause=1000&color=E0E0E0&width=700&lines=Feel+free+to+reach+out+for+opportunities!" />
 </a>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/anurag-bhonsle">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:anuragkbhonsle@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://anuragbhonsle.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
 <img 
   width="100%" 
   height="200" 
