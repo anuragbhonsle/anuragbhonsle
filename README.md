@@ -1,37 +1,89 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=120&section=header" />
+<img 
+  width="100%" 
+  height="200" 
+  style="object-fit:cover;" 
+  src="https://i.pinimg.com/originals/84/df/51/84df51b4bb34f6fb7f02c5d85fd9c960.gif" 
+/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=25&duration=3500&pause=450&color=3B82F6&width=700&lines=Hello%2C+I'm+Anurag;A+Full+Stack+Developer+;Who+likes+Competitive+Programming" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=25&duration=3500&pause=450&color=E0E0E0&width=700&lines=Hello%2C+I'm+Anurag;Full+Stack+Developer+;Competitive+Programmer" />
 </a>
 
 ---
 
-###  Main Skills
+### Main Skills
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,nestjs,postgres,mongodb,prisma,tailwind,vite,html,css,git,github,cpp)](https://skillicons.dev)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Studying
+
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-000000?style=for-the-badge&logo=graphql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=white)
 
 ---
 
-###  Studying
-[![Learning](https://skillicons.dev/icons?i=docker,aws,linux,graphql,redis)](https://skillicons.dev)
+### Activity Graph
+
+![Anurag's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anuragbhonsle&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)
 
 ---
 
-### Featured Projects 
+### Featured Projects
 
-- [**Webcomic AI**](https://comicsai.vercel.app/) – An AI-powered webcomic recommendation app
-- [**Taskly**](https://taskly-chi-one.vercel.app/) – A vibe Project Manager
-- [**Starune**](https://starune.vercel.app) – Stargazing forecast app
-- [**WeatherVerse**](https://weather-verse-app.vercel.app/) – Real-time weather platform with live forecasts
-- [**AnimeVerse**](https://anime-verse-xi.vercel.app) – Anime watchlist tracking platform 
-- [**Eclipz**](https://eclipz.vercel.app) – Anonymous chat space 
- 
+[![Webcomic AI](https://img.shields.io/badge/Webcomic_AI-000000?style=for-the-badge)](https://comicsai.vercel.app/)
+[![Taskly](https://img.shields.io/badge/Taskly-000000?style=for-the-badge)](https://taskly-chi-one.vercel.app/)
+[![Starune](https://img.shields.io/badge/Starune-000000?style=for-the-badge)](https://starune.vercel.app)
+[![WeatherVerse](https://img.shields.io/badge/WeatherVerse-000000?style=for-the-badge)](https://weather-verse-app.vercel.app/)
+[![AnimeVerse](https://img.shields.io/badge/AnimeVerse-000000?style=for-the-badge)](https://anime-verse-xi.vercel.app)
+[![Eclipz](https://img.shields.io/badge/Eclipz-000000?style=for-the-badge)](https://eclipz.vercel.app)
+
+Descriptions:
+- **Webcomic AI** – An AI-powered webcomic recommendation app
+- **Taskly** – A vibe Project Manager
+- **Starune** – Stargazing forecast app
+- **WeatherVerse** – Real-time weather platform with live forecasts
+- **AnimeVerse** – Anime watchlist tracking platform
+- **Eclipz** – Anonymous chat space
+
 ### Featured Mini Projects
-- [**Zareen**](https://zareeeen.vercel.app/) – An animated birthday card I made for a friend
--  [**React Quiz**](https://reactjsquizapp.vercel.app/) – A React Quiz App
-- [**Countdown Game**](https://countdown-gamee.vercel.app) – Interactive React time-guessing game
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=120&section=footer" />
 
+[![Zareen](https://img.shields.io/badge/Zareen-000000?style=for-the-badge)](https://zareeeen.vercel.app/)
+[![React Quiz](https://img.shields.io/badge/React_Quiz-000000?style=for-the-badge)](https://reactjsquizapp.vercel.app/)
+[![Countdown Game](https://img.shields.io/badge/Countdown_Game-000000?style=for-the-badge)](https://countdown-gamee.vercel.app)
 
+Descriptions:
+- **Zareen** – An animated birthday card I made for a friend
+- **React Quiz** – A React Quiz App
+- **Countdown Game** – Interactive React time-guessing game
 
+---
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=20&duration=3000&pause=1000&color=E0E0E0&width=700&lines=Feel+free+to+reach+out+for+opportunities!" />
+</a>
+
+<img 
+  width="100%" 
+  height="200" 
+  style="object-fit:cover;" 
+  src="https://i.pinimg.com/originals/84/df/51/84df51b4bb34f6fb7f02c5d85fd9c960.gif" 
+/>
