@@ -9,6 +9,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=25&duration=3500&pause=450&color=E0E0E0&width=700&lines=Hello%2C+I'm+Anurag;Full+Stack+Developer+;Competitive+Programmer" />
 </a>
 
+![Profile Views](https://komarev.com/ghpvc/?username=anuragbhonsle&color=000000&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/anuragbhonsle?color=000000&style=for-the-badge&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/anuragbhonsle?color=000000&style=for-the-badge&label=STARS)
+![Last Commit](https://img.shields.io/github/last-commit/anuragbhonsle/anuragbhonsle?color=000000&style=for-the-badge&label=LAST+COMMIT)
+
 ---
 
 ### Main Skills
