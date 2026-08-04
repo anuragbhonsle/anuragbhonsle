@@ -1,6 +1,6 @@
 <img 
   width="100%" 
-  height="150" 
+  height="100" 
   style="object-fit:cover;" 
   src="https://i.pinimg.com/originals/84/df/51/84df51b4bb34f6fb7f02c5d85fd9c960.gif" 
 />
@@ -100,7 +100,7 @@ Descriptions:
 
 <img 
   width="100%" 
-  height="150" 
+  height="100" 
   style="object-fit:cover;" 
   src="https://i.pinimg.com/originals/84/df/51/84df51b4bb34f6fb7f02c5d85fd9c960.gif" 
 />
