@@ -1,7 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5257D9&height=120&section=header" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=120&section=header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=500&color=5257D9&width=480&lines=Hello%2C+I'm+Anurag;React+Dev+;Competitive+Programmer+" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=25&duration=3500&pause=450&color=3B82F6&width=700&lines=Hello%2C+I'm+Anurag;A+Full+Stack+Developer+;Who+likes+Competitive+Programming" />
 </a>
 
 ---
@@ -20,9 +20,9 @@
 ### Featured Projects 
 
 - [**Webcomic AI**](https://comicsai.vercel.app/) – An AI-powered webcomic recommendation app
-- [**WeatherVerse**](https://weather-verse-app.vercel.app/) – Real-time weather platform with live forecasts
 - [**Taskly**](https://taskly-chi-one.vercel.app/) – A vibe Project Manager
-- [**Starune**](https://starune.vercel.app) – Stargazing forecast app 
+- [**Starune**](https://starune.vercel.app) – Stargazing forecast app
+- [**WeatherVerse**](https://weather-verse-app.vercel.app/) – Real-time weather platform with live forecasts
 - [**AnimeVerse**](https://anime-verse-xi.vercel.app) – Anime watchlist tracking platform 
 - [**Eclipz**](https://eclipz.vercel.app) – Anonymous chat space 
  
@@ -31,7 +31,7 @@
 -  [**React Quiz**](https://reactjsquizapp.vercel.app/) – A React Quiz App
 - [**Countdown Game**](https://countdown-gamee.vercel.app) – Interactive React time-guessing game
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5257D9&height=120&section=footer" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=120&section=footer" />
 
 
 
