@@ -83,8 +83,8 @@ Descriptions:
 - **Taskly** – A project manager app to organize your projects and tasks. Supports user authentication and user-specific data.
 - **Starune** – Starune helps you check if the sky is clear enough for stargazing at your location.
 - **WeatherVerse** – A modern, responsive weather application built with React, Redux Toolkit, Express.js, and the OpenWeather API.
-- **AnimeVerse** – Animeverse is a modern, full-stack web application designed for anime fans to track their anime watchlist with an immersive, visually appealing interface.
-- **Eclipz** – Eclipz was built to blend anonymity, a clean UI, and just a hint of mystery. It's a space where you can say anything while staying anonymous.
+- **AnimeVerse** – AnimeVerse is a modern web app for anime fans to manage their watchlists and enjoy a visually engaging interface.
+- **Eclipz** – Eclipz was built to blend anonymity and a hint of mystery. A space where you can say anything while staying anonymous.
 
 ### Featured Mini Projects
 
@@ -93,9 +93,9 @@ Descriptions:
 [![Countdown Game](https://img.shields.io/badge/Countdown_Game-000000?style=for-the-badge)](https://countdown-gamee.vercel.app)
 
 Descriptions:
-- **Zareen** – A small, fun project I built to send a personalized birthday greeting to my friend
-- **React Quiz** – A simple, clean, and interactive Quiz Application built with React to practice core React concepts like state, props, hooks, and component-driven UI.
-- **Countdown Game** – An interactive React time-guessing game where players try to stop the timer as close as possible to zero to get the highest score.
+- **Zareen** – A small personalized project created to send a fun and memorable birthday greeting to a friend.
+- **React Quiz** – A interactive quiz app built to practice core React concepts like state, props, hooks, and component-driven UI.
+- **Countdown Game** – A time-guessing game where players try to stop the timer as close as possible to zero to get the highest score.
 
 ---
 
