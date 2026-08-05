@@ -71,7 +71,7 @@
 
 ### Featured Projects
 
-[![Comics AI](https://img.shields.io/badge/Webcomic_AI-000000?style=for-the-badge)](https://comicsai.vercel.app/)
+[![Comics AI](https://img.shields.io/badge/Comics_AI-000000?style=for-the-badge)](https://comicsai.vercel.app/)
 [![Taskly](https://img.shields.io/badge/Taskly-000000?style=for-the-badge)](https://taskly-chi-one.vercel.app/)
 [![Starune](https://img.shields.io/badge/Starune-000000?style=for-the-badge)](https://starune.vercel.app)
 [![WeatherVerse](https://img.shields.io/badge/WeatherVerse-000000?style=for-the-badge)](https://weather-verse-app.vercel.app/)
@@ -79,7 +79,7 @@
 [![Eclipz](https://img.shields.io/badge/Eclipz-000000?style=for-the-badge)](https://eclipz.vercel.app)
 
 Descriptions:
-- **Webcomic AI** – An AI-powered webcomic recommendation app that helps readers find their next comic.
+- **Comics AI** – An AI-powered webcomic recommendation app that helps readers find their next comic.
 - **Taskly** – A project manager app to organize your projects and tasks. Supports user authentication and user-specific data.
 - **Starune** – Starune helps you check if the sky is clear enough for stargazing at your location.
 - **WeatherVerse** – A modern, responsive weather application built with React, Redux Toolkit, Express.js, and the OpenWeather API.
