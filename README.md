@@ -71,7 +71,7 @@
 
 ### Featured Projects
 
-[![Webcomic AI](https://img.shields.io/badge/Webcomic_AI-000000?style=for-the-badge)](https://comicsai.vercel.app/)
+[![Comics AI](https://img.shields.io/badge/Webcomic_AI-000000?style=for-the-badge)](https://comicsai.vercel.app/)
 [![Taskly](https://img.shields.io/badge/Taskly-000000?style=for-the-badge)](https://taskly-chi-one.vercel.app/)
 [![Starune](https://img.shields.io/badge/Starune-000000?style=for-the-badge)](https://starune.vercel.app)
 [![WeatherVerse](https://img.shields.io/badge/WeatherVerse-000000?style=for-the-badge)](https://weather-verse-app.vercel.app/)
