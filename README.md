@@ -2,7 +2,7 @@
   width="100%" 
   height="150" 
   style="object-fit:cover;" 
-  src="https://i.pinimg.com/1200x/e3/3c/ff/e33cff9fd24df28daadf5ed5d17c026a.jpg" 
+  src="https://i.pinimg.com/1200x/7d/0a/8a/7d0a8a75ade82db784699c413b96f536.jpg" 
 />
 
 <a href="https://git.io/typing-svg">
@@ -102,5 +102,5 @@ Descriptions:
   width="100%" 
   height="150" 
   style="object-fit:cover;" 
-  src="https://i.pinimg.com/originals/84/df/51/84df51b4bb34f6fb7f02c5d85fd9c960.gif" 
+  src="https://i.pinimg.com/1200x/7d/0a/8a/7d0a8a75ade82db784699c413b96f536.jpg" 
 />
