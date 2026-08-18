@@ -13,6 +13,8 @@
 ![Followers](https://img.shields.io/github/followers/anuragbhonsle?color=000000&style=for-the-badge&label=FOLLOWERS)
 ![Stars](https://img.shields.io/github/stars/anuragbhonsle?color=000000&style=for-the-badge&label=STARS)
 ![Last Commit](https://img.shields.io/github/last-commit/anuragbhonsle/anuragbhonsle?color=000000&style=for-the-badge&label=LAST+COMMIT)
+[![Resume](https://img.shields.io/badge/VIEW-RESUME-000000?style=for-the-badge&labelColor=555555)](https://anuragbhonsle.vercel.app/Anurag_Bhonsle_Full_Stack_Developer.pdf)
+
 
 ---
 ### Frontend
