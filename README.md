@@ -71,6 +71,7 @@
 
 ### Featured Projects
 
+[![Clipz](https://img.shields.io/badge/Clipz-000000?style=for-the-badge)](https://clipzapp.vercel.app/)
 [![Comics AI](https://img.shields.io/badge/Comics_AI-000000?style=for-the-badge)](https://comicsai.vercel.app/)
 [![Taskly](https://img.shields.io/badge/Taskly-000000?style=for-the-badge)](https://taskly-chi-one.vercel.app/)
 [![Starune](https://img.shields.io/badge/Starune-000000?style=for-the-badge)](https://starune.vercel.app)
@@ -79,6 +80,8 @@
 [![Eclipz](https://img.shields.io/badge/Eclipz-000000?style=for-the-badge)](https://eclipz.vercel.app)
 
 Descriptions:
+
+- **Clipz** – Clipz is a short-video sharing app — upload a clip, add a title and caption, and share it with the community.
 - **Comics AI** – An AI-powered webcomic recommendation app that helps readers find their next comic.
 - **Taskly** – A project manager app to organize your projects and tasks. Supports user authentication and user-specific data.
 - **Starune** – Starune helps you check if the sky is clear enough for stargazing at your location.
