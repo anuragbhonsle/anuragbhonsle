@@ -63,30 +63,24 @@
 
 ---
 
-### Activity Graph
-
-![Anurag's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anuragbhonsle&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)
-
----
-
 ### Featured Projects
 
 [![Clipz](https://img.shields.io/badge/Clipz-000000?style=for-the-badge)](https://clipzapp.vercel.app/)
 [![Comics AI](https://img.shields.io/badge/Comics_AI-000000?style=for-the-badge)](https://comicsai.vercel.app/)
-[![Taskly](https://img.shields.io/badge/Taskly-000000?style=for-the-badge)](https://taskly-chi-one.vercel.app/)
 [![Starune](https://img.shields.io/badge/Starune-000000?style=for-the-badge)](https://starune.vercel.app)
-[![WeatherVerse](https://img.shields.io/badge/WeatherVerse-000000?style=for-the-badge)](https://weather-verse-app.vercel.app/)
+[![Skyly](https://img.shields.io/badge/Skyly-000000?style=for-the-badge)](https://skyly-app.vercel.app/)
 [![AnimeVerse](https://img.shields.io/badge/AnimeVerse-000000?style=for-the-badge)](https://anime-verse-xi.vercel.app)
+[![Taskly](https://img.shields.io/badge/Taskly-000000?style=for-the-badge)](https://taskly-chi-one.vercel.app/)
 [![Eclipz](https://img.shields.io/badge/Eclipz-000000?style=for-the-badge)](https://eclipz.vercel.app)
 
 Descriptions:
 
 - **Clipz** – Clipz is a short-video sharing app — upload a clip, add a title and caption, and share it with the community.
 - **Comics AI** – An AI-powered webcomic recommendation app that helps readers find their next comic.
-- **Taskly** – A project manager app to organize your projects and tasks. Supports user authentication and user-specific data.
 - **Starune** – Starune helps you check if the sky is clear enough for stargazing at your location.
-- **WeatherVerse** – A modern, responsive weather application built with React, Redux Toolkit, Express.js, and the OpenWeather API.
+- **Skyly** – A modern weather app built with React, Redux Toolkit, Express.js, OpenWeather API, and Google Gemini for AI insights.
 - **AnimeVerse** – AnimeVerse is a modern web app for anime fans to manage their watchlists and enjoy a visually engaging interface.
+- **Taskly** – A project manager app to organize your projects and tasks. Supports user authentication and user-specific data.
 - **Eclipz** – Eclipz was built to blend anonymity and a hint of mystery. A space where you can say anything while staying anonymous.
 
 ### Featured Mini Projects
