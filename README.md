@@ -70,17 +70,6 @@ Descriptions:
 - **Taskly** – A project manager app to organize your projects and tasks. Supports user authentication and user-specific data.
 - **Eclipz** – Eclipz was built to blend anonymity and a hint of mystery. A space where you can say anything while staying anonymous.
 
-### Featured Mini Projects
-
-[![Zareen](https://img.shields.io/badge/Zareen-000000?style=for-the-badge)](https://zareeeen.vercel.app/)
-[![React Quiz](https://img.shields.io/badge/React_Quiz-000000?style=for-the-badge)](https://reactjsquizapp.vercel.app/)
-[![Countdown Game](https://img.shields.io/badge/Countdown_Game-000000?style=for-the-badge)](https://countdown-gamee.vercel.app)
-
-Descriptions:
-- **Zareen** – A small personalized project created to send a fun and memorable birthday greeting to a friend.
-- **React Quiz** – A interactive quiz app built to practice core React concepts like state, props, hooks, and component-driven UI.
-- **Countdown Game** – A time-guessing game where players try to stop the timer as close as possible to zero to get the highest score.
-
 ---
 
 <a href="https://git.io/typing-svg">
