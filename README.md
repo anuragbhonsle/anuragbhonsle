@@ -15,8 +15,8 @@
 ![Last Commit](https://img.shields.io/github/last-commit/anuragbhonsle/anuragbhonsle?color=000000&style=for-the-badge&label=LAST+COMMIT)
 [![Resume](https://img.shields.io/badge/VIEW-RESUME-000000?style=for-the-badge&labelColor=555555)](https://anuragbhonsle.vercel.app/Anurag_Bhonsle_Full_Stack_Developer.pdf)
 
-
 ---
+
 ### Frontend
 
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
@@ -26,14 +26,12 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=white)
 
 
 ### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Auth.js](https://img.shields.io/badge/Auth.js-000000?style=for-the-badge&logo=auth0&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=white)
 
@@ -42,24 +40,13 @@
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Tools & Languages
 
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-
-
-### Currently Learning
-
-![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=white)
 
 ---
 
@@ -75,10 +62,10 @@
 
 Descriptions:
 
-- **Clipz** – Clipz is a short-video sharing app — upload a clip, add a title and caption, and share it with the community.
+- **Clipz** – Clipz is a short-video sharing app, upload a clip, add a title and caption, and share it with the community.
 - **Comics AI** – An AI-powered webcomic recommendation app that helps readers find their next comic.
 - **Starune** – Starune helps you check if the sky is clear enough for stargazing at your location.
-- **Skyly** – A modern weather app built with React, Redux Toolkit, Express.js, OpenWeather API, and Google Gemini for AI insights.
+- **Sky.ly** – A modern weather app built with React, Redux Toolkit, Express.js, OpenWeather API, and Google Gemini for AI insights.
 - **AnimeVerse** – AnimeVerse is a modern web app for anime fans to manage their watchlists and enjoy a visually engaging interface.
 - **Taskly** – A project manager app to organize your projects and tasks. Supports user authentication and user-specific data.
 - **Eclipz** – Eclipz was built to blend anonymity and a hint of mystery. A space where you can say anything while staying anonymous.
