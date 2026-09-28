@@ -63,7 +63,7 @@ Descriptions:
 
 - **Clipz** – Clipz is a short-video sharing app, upload a clip, add a title and caption, and share it with the community.
 - **Comics AI** – An AI-powered webcomic recommendation app that helps readers find their next comic.
-- **Sky.ly** – A modern weather app built with React, Redux Toolkit, Express.js, OpenWeather API, and Google Gemini for AI insights.
+- **Skyly** – A modern weather app built with React, Redux Toolkit, Express.js, OpenWeather API, and Google Gemini for AI insights.
 - **AnimeVerse** – AnimeVerse is a modern web app for anime fans to manage their watchlists and enjoy a visually engaging interface.
 - **Taskly** – A project manager app to organize your projects and tasks. Supports user authentication and user-specific data.
 - **Starune** – Starune helps you check if the sky is clear enough for stargazing at your location.
