@@ -6,7 +6,7 @@
 />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=25&duration=3500&pause=450&color=E0E0E0&width=700&lines=Hello%2C+I'm+Anurag;Full+Stack+Developer+;Competitive+Programmer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=25&duration=3500&pause=450&color=8C8989&width=700&lines=Hello%2C+I'm+Anurag;Full+Stack+Developer+;Competitive+Programmer" />
 </a>
 
 ![Followers](https://img.shields.io/github/followers/anuragbhonsle?color=000000&style=for-the-badge&label=FOLLOWERS)
@@ -72,7 +72,7 @@ Descriptions:
 ---
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=20&duration=3000&pause=1000&color=E0E0E0&width=700&lines=Feel+free+to+reach+out+for+opportunities!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=20&duration=3000&pause=1000&color=8C8989&width=700&lines=Feel+free+to+reach+out+for+opportunities!" />
 </a>
 
 <p align="center">
